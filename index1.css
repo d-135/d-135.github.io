@@ -1,0 +1,14 @@
+.menu{display: flex;
+flex-direction: row;
+justify-content: space-evenly;}
+.header-row
+{display: flex;
+flex-direction: row;
+align-items: center;
+flex-grow: 1;}
+.header-logo {display: flex;
+flex-direction: row;
+align-items: center;
+flex-grow: 1;}
+.logo-img{margin-right: 40;}
+.header-mtnu { flex-grow: 3;}

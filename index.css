@@ -1,0 +1,55 @@
+* {font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 0;
+padding: 0;}
+.container{max-width: 1140px;
+}
+/*head*/
+.header {
+width: 100%;
+color: black;
+padding: 20px;
+background-color: rgb(93, 59, 172);
+box-sizing: border-box;
+}
+.menu-item{
+    list-style: none;
+}
+.menu-link{
+    color: red;
+
+
+}
+.banner-title, .banner-description {
+    text-align: center;
+    color: rgb(177, 31, 31);
+}
+.banner-title{font-size: 48px;}
+.banner-section{padding: 100px 0;
+background: url(C:\Users\SA_Student\Documents\Lazu\banner-br.jpg);
+background-size: cover;
+background-position: center;}
+/*card*/
+.cards-section { padding: 50px 0px;}
+
+.cards-title, .carsd-descriprion{color: blue;
+text-align: center;}
+.card {padding:25px;
+margin-top: 25px;
+width: 25px;
+background:rgb(154, 77, 77);
+box-shadow: 0px 2px 7px 0px;
+text-align: center;}
+.card-link {
+    text-decoration: none;
+    color: wheat 
+}
+.catd-button {text-align: center;
+background:darkblue ;
+padding: 10 70;
+border-radius: 10;
+cursor: pointer;}
+.cards-title, .card-text{margin-bottom: 10;
+}
+.cards {display: inline-block;
+width: 25;
+}
